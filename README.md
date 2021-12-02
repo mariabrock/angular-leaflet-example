@@ -1,4 +1,4 @@
-This Project was built by following the Digital Ocean tutorial on Angular and Leaflet. It can be found here: https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet
+This Project was built by following the Digital Ocean tutorial on Angular and Leaflet By Chris Engelsma. It can be found here: https://www.digitalocean.com/community/tutorials/angular-angular-and-leaflet
 
 # AngularLeafletExample
 
