@@ -8,6 +8,7 @@ import { ShapeService } from './shape.service';
 
 import { AppComponent } from './app.component';
 import { MapComponent } from './map/map.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { MapComponent } from './map/map.component';
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    BrowserAnimationsModule
   ],
   providers: [
     MarkerService,
